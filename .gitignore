@@ -61,3 +61,11 @@ fabric.properties
 # Editor-based Rest Client
 .idea/httpRequests
 
+# Jekyll
+_site/
+.bundle/
+.sass-cache/
+vendor/
+.jekyll-cache/
+Gemfile.lock
+

@@ -1,0 +1,32 @@
+title: Luqman Sungkar
+description: Notes, guides, and documentation
+baseurl: ""
+url: "https://luqmansungkar.github.io"
+theme: just-the-docs
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+
+# Just the Docs settings
+search_enabled: true
+
+just_the_docs:
+  collections:
+    pages:
+      name: Guides
+      nav_fold: false
+
+# Exclude non-Jekyll assets from build
+exclude:
+  - ajeng/
+  - CNAME.bak
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+
+# Collections for documentation pages
+collections:
+  pages:
+    output: true
+    permalink: /:name/
