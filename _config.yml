@@ -17,6 +17,18 @@ just_the_docs:
       name: Guides
       nav_fold: false
 
+# Callouts
+callouts:
+  note:
+    title: ""
+    color: blue
+  warning:
+    title: ""
+    color: red
+  highlight:
+    title: ""
+    color: yellow
+
 # Exclude non-Jekyll assets from build
 exclude:
   - ajeng/

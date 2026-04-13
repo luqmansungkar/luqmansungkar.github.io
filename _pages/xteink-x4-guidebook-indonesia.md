@@ -8,11 +8,39 @@ nav_order: 2
 
 # XTEInk X4 Guidebook Indonesia: Panduan Lengkap Pemilik
 
-**Selamat datang, dan terima kasih sudah memilih XTEInk X4!** Kalau kamu baca ini, kemungkinan besar kamu baru saja unboxing X4-mu — atau mungkin masih nimbang-nimbang mau beli. Either way, kamu ada di tempat yang tepat. Panduan ini saya buat supaya kamu bisa langsung pakai X4 tanpa pusing googling sana-sini. Semua yang perlu kamu tahu — dari setup awal, transfer buku, sampai tips biar awet di cuaca Indonesia — ada di sini. Kalau ada yang kurang jelas atau butuh bantuan, jangan sungkan hubungi saya langsung ya!
+**Selamat datang, dan terima kasih sudah memilih XTEInk X4!** 
 
+Kalau kamu baca ini, kemungkinan besar kamu baru saja unboxing X4-mu — atau mungkin masih nimbang-nimbang mau beli. Either way, kamu ada di tempat yang tepat. Panduan ini saya buat supaya kamu bisa langsung pakai X4 tanpa pusing googling sana-sini. Semua yang perlu kamu tahu — dari setup awal, transfer buku, sampai tips biar awet di cuaca Indonesia — ada di sini. Kalau ada yang kurang jelas atau butuh bantuan, jangan sungkan hubungi saya langsung ya!
+
+{: .highlight } 
 > Belum punya XTEink X4? Dapatkan dengan harga terbaik di Fathan Gadget Store di Shopee: [https://id.shp.ee/dS8pThGo](https://id.shp.ee/dS8pThGo) <br>
-Harga sudah termasuk flip-case original loh!
+> Harga sudah termasuk flip-case original loh!
 
+ {: .note } 
+> Artikel ini dibuat oleh Fathan Gadget Store, follow akun social media kami untuk mendapatkan update produk, tips & trik, tutorial, dan juga review buku menarik.
+
+<a href="https://www.instagram.com/luqman.sungkar" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:8px 16px;background:linear-gradient(45deg,#f09433,#e6683c,#dc2743,#cc2366,#bc1888);color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;font-size:14px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" style="width:20px;height:20px;"> Instagram
+</a>
+<a href="https://www.threads.net/@luqman.sungkar" target="_blank" style="display:inline-flex;align-items:center;gap:6px;padding:8px 16px;background:#000;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;font-size:14px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Threads_%28app%29.svg" alt="Threads" style="width:20px;height:20px;"> Threads
+</a>
+
+
+
+## Daftar Isi
+
+1. [Quick start: dari unboxing sampai baca buku pertama](#1-quick-start-dari-unboxing-sampai-baca-buku-pertama)
+2. [Format buku dan cara baca berbagai jenis konten](#2-format-buku-dan-cara-baca-berbagai-jenis-konten)
+3. [Empat cara transfer buku ke XTEInk X4](#3-empat-cara-transfer-buku-ke-xteink-x4)
+4. [Custom wallpaper dan sleep screen](#4-custom-wallpaper-dan-sleep-screen)
+5. [Custom firmware: CrossPoint, CrossPet, dan Papyrix](#5-custom-firmware-crosspoint-crosspet-dan-papyrix)
+6. [Troubleshooting masalah umum](#6-troubleshooting-masalah-umum)
+7. [Perawatan dan aksesoris untuk iklim Indonesia](#7-perawatan-dan-aksesoris-untuk-iklim-indonesia)
+8. [Sumber ebook legal dan resmi](#8-sumber-ebook-legal-dan-resmi)
+9. [Cara Menghilangkan DRM dari file ebook](#9-cara-menghilangkan-drm-dari-file-ebook)
+
+---
 
 **XTEInk X4 adalah e-reader saku ultra-tipis dengan layar E-Ink 4.3 inci, tanpa touchscreen, dan dioperasikan sepenuhnya pakai tombol fisik.** Perangkat ini didesain buat ditempel di belakang smartphone lewat magnet MagSafe, jadi dia jadi teman baca yang selalu siap di saku kamu.
 <blockquote class="text-post-media" data-text-post-permalink="https://www.threads.com/@luqman.sungkar/post/DWP42yjD_qQ?xmt=AQF0SOCTbeyJaLaG1obejoE9NRftYjXJgNuXW9PI1NGl4A" data-text-post-version="0">                                               
@@ -36,19 +64,12 @@ Waktu buka paket XTEInk X4, kamu bakal dapet:
 
 Beterai X4 seharusnya sudah terisi cukup penuh, dan micro sd card juga sudah terpasang, jadi bisa langsung kamu gunakan.
 Hal yang mungkin perlu penyesuaian sedikit adalah layout tombolnya
-![Peta tombol XTEInk X4](/assets/images/xteink-x4-buttons.png)
 
 ### Peta tombol perangkat
 
-X4 punya **7 tombol fisik** dan nggak ada touchscreen:
+![Peta tombol XTEInk X4](/assets/images/xteink-x4-buttons.png)
 
-| Tombol | Lokasi | Fungsi |
-|--------|--------|--------|
-| **Power** | Sisi atas | Tekan singkat: sleep/wake. Tekan lama: on/off |
-| **Previous Page** | Rocker kanan atas | Halaman sebelumnya / navigasi menu ke atas |
-| **Next Page** | Rocker kanan bawah | Halaman berikutnya / navigasi menu ke bawah |
-| **Back** | Rocker kiri bawah | Kembali. Tekan lama: simpan & keluar |
-| **OK/Confirm** | Rocker kiri kanan | Konfirmasi pilihan. Double-tap pas baca: buka menu reader. Tekan lama: bookmark |
+X4 punya **7 tombol fisik** dan nggak ada touchscreen:
 
 Pas lagi baca, tombol Previous/Next buat balik halaman. Double-tap OK buat buka menu reader yang isinya: pengaturan font, auto-flip, navigasi chapter, dark mode, rotasi layar, bookmark, dan progress bar.
 
@@ -87,7 +108,9 @@ Dari home screen, masuk ke **Sync → Network Connection**. Pilih jaringan WiFi 
 
 **EPUB adalah format andalan buat novel dan buku teks.** Teks bisa reflow ngikutin ukuran layar — cocok banget buat layar kecil 4.3 inci. Saya sendiri biasanya cukup baca pakai EPUB saja sudah oke, tidak perlu convert ke XTC.
 
-Di **stock firmware**, opsi font cuma ada small dan medium, dan formatting kayak italic/bold sering nggak tampil bener. Di **CrossPoint firmware**, pengalaman baca jauh lebih enak: ada 4 ukuran font (S/M/L/XL), line spacing bisa diatur, margin layar bisa dikustom, dan teks bisa di-justify.
+Kalau kamu beli buku di tempat seperti google playbook, kobo, atau selain Amazon, biasanya kamu akan dapat buku dalam format EPUB
+
+Di **stock firmware**, opsi font cuma ada small dan medium, dan formatting kayak italic/bold sering nggak tampil dengan bener. Di **CrossPoint firmware**, pengalaman baca jauh lebih enak: ada 4 ukuran font (S/M/L/XL), line spacing bisa diatur, margin layar bisa dikustom, dan teks bisa di-justify.
 
 Punya buku format MOBI, AZW, atau DOCX? Convert ke EPUB pakai **Calibre** ([calibre-ebook.com](https://calibre-ebook.com/)).
 
@@ -189,7 +212,9 @@ Alternatif: CrossPoint juga support **OPDS browser** — bisa akses Calibre Cont
 - **basvanderploeg.nl/xteink/** ([basvanderploeg.nl/xteink](https://basvanderploeg.nl/xteink/)) — situs komunitas dari desainer Belanda Bas van der Ploeg yang punya koleksi sleep screen kustom kualitas tinggi, termasuk Pokédex Wallpaper Generator di [basvanderploeg.nl/xteink/pokemon](https://basvanderploeg.nl/xteink/pokemon/) yang bikin wallpaper BMP 480×800 bertema Pokémon.
     - Kalau mau download wallpaper pokemon langsung bulk per generation, bisa download di sini: [lowio.xyz/#x4pokedex](https://lowio.xyz/#x4pokedex)
 
-- Aplikasi **Send to X4** punya **Sleep Screen Designer** dengan 1.000+ wallpaper e-ink terkurasi yang bisa langsung dikirim ke perangkat. Halaman resmi Xteink Playground ([xteink.com/pages/more-fun-with-xteink](https://www.xteink.com/pages/more-fun-with-xteink)) juga nyediain wallpaper bertema seasonal. Komunitas Reddit r/xteinkereader dan r/xteink juga aktif sharing wallpaper kustom.
+- Aplikasi **Send to X4** punya **Sleep Screen Designer** dengan 1.000+ wallpaper e-ink terkurasi yang bisa langsung dikirim ke perangkat. 
+- Halaman resmi Xteink Playground ([xteink.com/pages/more-fun-with-xteink](https://www.xteink.com/pages/more-fun-with-xteink)) juga nyediain sedikit wallpaper bertema seasonal. 
+- Komunitas Reddit r/xteinkereader dan r/xteink juga aktif sharing wallpaper kustom.
 
 ---
 
@@ -198,8 +223,8 @@ Alternatif: CrossPoint juga support **OPDS browser** — bisa akses Calibre Cont
 Firmware kustom adalah **upgrade terpenting** yang bisa kamu lakuin di XTEInk X4. Stock firmware punya keterbatasan serius — cuma support 2 ukuran font, formatting EPUB jelek, dan nggak ada integrasi Calibre.
 
 ### CrossPoint — firmware kustom paling populer
-
-**CrossPoint Reader** ([github.com/crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)) — firmware open-source buatan Dave Allie dengan komunitas aktif (3.100+ stars di GitHub). Versi terbaru **v1.2.0** (April 2026).
+<br>
+([github.com/crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader)) — firmware open-source buatan Dave Allie dengan komunitas aktif (3.100+ stars di GitHub). Versi terbaru **v1.2.0** (April 2026).
 
 Keunggulan utama dibanding stock: 
 - **4 ukuran font** (S/M/L/XL)
@@ -207,39 +232,58 @@ Keunggulan utama dibanding stock:
 - CSS support buat EPUB
 - integrasi Calibre wireless
 - OPDS browser
-- custom sleep screen dengan cover buku
+- custom sleep screen dengan cover buku (otomatis tergantung lagi baca buku apa, kayak di kobo)
 - button remapping
 - KOReader sync
 - dan **sunlight fading fix** buat model putih.
 
-UI tersedia dalam 8 bahasa termasuk Inggris, Spanyol, Prancis, dan Jerman.
+UI tersedia dalam 8 bahasa termasuk Inggris, Spanyol, Prancis, dan Jerman. Kamu bisa baca lebih lanjut terkait crosspoint di [https://github.com/crosspoint-reader/crosspoint-reader/blob/master/USER_GUIDE.md](https://github.com/crosspoint-reader/crosspoint-reader/blob/master/USER_GUIDE.md)
 
 **Cara install CrossPoint (step-by-step):**
 
+{: .warning }
+> Disclaimer: do this at your own risk. Saya sendiri sudah coba step berikut berkali-kali, dan umumnya resiko sangat rendah, namun tetap ada
+
+{: .warning }
+> Terkait backup, ini sebenarnya opsional, dan saya sendiri tidak lakukan (karena device juga masih kosongan). Namun ini disarankan oleh pembuat tools, sehingga tetap saya cantumkan
+
 1. Colok X4 ke komputer lewat **USB-C** dan pastiin perangkat nyala
 2. Buka [xteink.dve.al](https://xteink.dve.al/) di browser **Chrome** (butuh WebSerial)
-3. **BACKUP DULU:** Di bagian "Full flash controls", klik **"Save full flash"** — tunggu sekitar **25 menit** buat backup lengkap. Simpan file `flash.bin` baik-baik
+3. **BACKUP:** Di bagian "Full flash controls", klik **"Save full flash"** — tunggu sekitar **25 menit** buat backup lengkap. Simpan file `flash.bin` baik-baik. 
 4. Scroll ke "OTA fast flash controls", klik **"Flash CrossPoint firmware"**
 5. Tunggu proses flashing selesai
 6. Tekan tombol **Reset** (lubang kecil di sisi kiri), terus teken lama **Power** buat reboot
 
 ### CrossPet — virtual pet yang tumbuh seiring Anda membaca
 
-**CrossPet** ([github.com/trilwu/crosspet](https://github.com/trilwu/crosspet)) — fork CrossPoint buatan developer Vietnam yang nambahin fitur Tamagotchi berupa **ayam virtual** yang berevolusi dari telur ke dewasa seiring halaman yang kamu baca. Ada 3 personality: Scholar, Balanced, dan Wild tergantung konsistensi bacamu. CrossPet juga punya **5 mini-game** (Chess, Gomoku, Sudoku, Tetris, 2048) dan kalender lunar Vietnam. Semua fitur reading CrossPoint tetap ada. Install lewat [xteink.dve.al](https://xteink.dve.al/) dengan cara yang sama.
+([trilwu.github.io/crosspet/index.html](https://trilwu.github.io/crosspet/index.html)) — fork CrossPoint buatan developer Vietnam yang nambahin fitur Tamagotchi berupa **ayam virtual** yang berevolusi dari telur ke dewasa seiring halaman yang kamu baca. Ada 3 personality: Scholar, Balanced, dan Wild tergantung konsistensi bacamu. CrossPet juga punya **5 mini-game** (Chess, Gomoku, Sudoku, Tetris, 2048), kalender lunar Vietnam, dan bahkan bisa jadi clicker untuk komputer!! Semua fitur reading CrossPoint tetap ada. 
+
+Saya sendiri sempat pakai firmware ini cukup lama, karena tampilan lebih menarik dan lebih banyak fitur. Namun sepertinya konsumsi baterai jadi agak lebih boros, sehingga akhirnya saya kembali pakai crosspoint. Menurut saya tetap worth to try.
+
+Cara install:
+1. Colok X4 ke komputer lewat **USB-C** dan pastiin perangkat nyala
+2. Buka [https://trilwu.github.io/crosspet/flash.html](https://trilwu.github.io/crosspet/flash.html) di browser komputer
+3. Klik **Flash CrossPet Firmware**
+4. Tunggu proses flashing selesai
+5. Tekan tombol **Reset** (lubang kecil di sisi kiri), terus teken lama **Power** buat reboot
 
 ### Papyrix — buat yang butuh format lebih banyak
+
+{: .warning }
+> Disclaimer: Saya belum pernah coba payrix
 
 **Papyrix** ([github.com/bigbag/papyrix-reader](https://github.com/bigbag/papyrix-reader), v1.18.0) — fork CrossPoint oleh Pavel Liashkov yang nambahin dukungan **FB2 (FictionBook)** yang lebih bagus, custom font (konversi TTF/OTF ke format .epdfont), tema kustom, dan tool optimasi EPUB bawaan. Papyrix butuh **instalasi lewat command-line** pakai [papyrix-flasher](https://github.com/bigbag/papyrix-flasher) — nggak ada web flasher kayak CrossPoint.
 
 ### Perbandingan singkat
 
-- **CrossPoint:** Paling gampang di-install (web flasher), komunitas terbesar, update paling sering. Pilihan terbaik buat kebanyakan orang
+- **CrossPoint:** Gampang di-install (web flasher), komunitas terbesar, update paling sering. Pilihan terbaik buat kebanyakan orang
+- **CrossPet:** Gamifikasi membaca pakai virtual pet. Buat yang butuh motivasi baca tambahan. Paling banyak fitur juga
 - **Papyrix:** Format file lebih banyak (FB2, HTML, MD), custom font support. Buat yang lebih teknis
-- **CrossPet:** Gamifikasi membaca pakai virtual pet. Buat yang butuh motivasi baca tambahan
+
 
 ### Backup dan restore firmware
 
-**Sebelum flash custom firmware, SELALU backup dulu.** Buka [xteink.dve.al](https://xteink.dve.al/), klik "Save full flash" di bagian "Full flash controls", dan simpan file `flash.bin`. Proses backup butuh waktu ~25 menit.
+**Sebelum flash custom firmware, disarankkan backup dulu.** Buka [xteink.dve.al](https://xteink.dve.al/), klik "Save full flash" di bagian "Full flash controls", dan simpan file `flash.bin`. Proses backup butuh waktu ~25 menit.
 
 **Mau balik ke stock firmware?** Buka lagi [xteink.dve.al](https://xteink.dve.al/) dan flash firmware resmi dari menu yang tersedia. Atau buka [xteink.dve.al/debug](https://xteink.dve.al/debug) dan klik "Swap boot partition" buat balik ke partisi OTA lama. Kalau kejebak bootloop di CrossPoint: tekan Reset, terus tahan tombol **Back + Power** barengan buat boot paksa ke Home Screen. Tenang, **ESP32-C3 hampir nggak mungkin brick permanen** karena ROM bootloader selalu bisa diakses lewat serial.
 
@@ -265,7 +309,7 @@ Ghosting (bayangan sisa dari gambar sebelumnya) itu normal di layar E-Ink. X4 ng
 
 ### MicroSD card error
 
-MicroSD card bawaan emang **berkualitas rendah** dan sering bikin perangkat panas. Ganti aja sama **SanDisk 128–256GB** (ada di Tokopedia/Shopee, ~Rp150–300 ribu). Format ulang ke **exFAT** pakai full format. Pastiin kartu masuk bener — dorong sampai bunyi klik.
+MicroSD card bawaan emang **berkualitas rendah** dan sering bikin perangkat panas. Ganti aja sama merk micro SD lainnya (bisa cari di Tokopedia/Shopee). Format ulang ke **exFAT** pakai full format. Pastiin kartu masuk bener — dorong sampai bunyi klik.
 
 ### White model dan masalah UV (sunlight fading)
 
@@ -281,7 +325,7 @@ Layar E-Ink **lebih rapuh dari LCD/OLED** — jangan ditekan, dijatuhkan, atau d
 
 ### Tips baterai awet
 
-Baterainya 650mAh pakai teknologi lithium — **jangan biarin habis total sebelum charge**. Cabut charger kalau udah penuh. Matiin WiFi dan Bluetooth kalau nggak dipake. Layar E-Ink cuma makan daya pas ganti halaman — halaman yang diam nggak pakai daya sama sekali, jadi baterai bisa tahan berminggu-minggu kalau pemakaian ringan.
+Baterainya 650mAh pakai teknologi lithium — **jangan biarin habis total sebelum charge**. Cabut charger kalau udah penuh. Layar E-Ink cuma makan daya pas ganti halaman — halaman yang diam nggak pakai daya sama sekali, jadi baterai bisa tahan beberapa minggu kalau pemakaian ringan.
 
 ### Penyimpanan di iklim tropis
 
@@ -289,105 +333,62 @@ Indonesia kan panas dan lembab, ini bisa ngaruh ke perangkat elektronik. **Janga
 
 ### Aksesoris yang direkomendasikan
 
-- **Magnetic Case resmi** ($8.99/~Rp140rb) — perlindungan layar esensial dengan magnet di belakang ([xteink.com/collections/accessories](https://www.xteink.com/collections/accessories))
-- **Protective Case PC shell** ($3.99/~Rp65rb) — casing polikarbonat ringan 14g
-- **Matte Screen Protector** ($3.99/2pcs) — material PET anti-silau dengan rasa seperti kertas
-- **Magnetic Reading Light** ($9.99/~Rp160rb) — LED rechargeable dengan 3 suhu warna (3000K/4500K/5500K), menempel via magnet
-- **USB microSD card reader** (UGREEN, ~Rp50rb di Tokopedia) — esensial untuk transfer file cepat
-- **SanDisk microSD 128–256GB** (~Rp150–300rb) — pengganti kartu bawaan yang kurang andal
-
-Case dan screen protector pihak ketiga juga banyak di Amazon dan Etsy, termasuk case artistik dari UOGNADGD dan case flip 3D-print dari komunitas.
+- **Magnetic Case resmi** (Sudah include kalau beli di Fathan Gadget Store) — perlindungan layar esensial dengan magnet di belakang ([xteink.com/collections/accessories](https://www.xteink.com/collections/accessories))
+- **Magnetic Reading Light** (150rb) — LED rechargeable dengan 3 suhu warna (3000K/4500K/5500K), menempel via magnet. Bisa beli di: 
 
 ---
 
-## 8. Sumber ebook berbahasa Indonesia
+## 8. Sumber ebook legal dan resmi
 
-### Google Play Books — opsi terbaik untuk XTEInk X4
+### Google Play Books
 
-**Google Play Books adalah satu-satunya platform komersial besar** yang ngebolehin download EPUB/PDF buat sideload ke e-reader pihak ketiga. Buka [play.google.com/books](https://play.google.com/books), beli buku, terus di My Books klik menu tiga titik → **Export**. Buku DRM-free langsung ke-download sebagai EPUB. Buat buku yang ada Adobe DRM: download file .acsm, buka di **Adobe Digital Editions** (ADE), terus pakai **Calibre dengan plugin DeDRM** buat hapus DRM dan dapetin EPUB bersih yang bisa ditransfer ke X4.
+**Google Play Books adalah satu-satunya platform komersial besar yang menjual ebook Bahasa Indonesia** dan memungkinkan download EPUB/PDF untuk sideload ke e-reader pihak ketiga. Selain koleksi Indonesia yang lengkap, harganya juga biasanya **paling murah** dibanding platform lain — sering ada diskon dan promo.
 
-### Buku Sekolah Elektronik (BSE) — gratis dan legal
+- Buka https://play.google.com/books 
+- Pilih dan beli buku yang kamu mau (bisa dari app di hape juga)
+- Lalu di My Books (harus dari browser komputer) klik menu tiga titik → **Export**. 
+- Buku DRM-free langsung ke-download sebagai EPUB
+- Buat buku yang ada Adobe DRM: download file .acsm, buka di **Adobe Digital Editions** (ADE), terus pakai **Calibre dengan plugin DeDRM** buat hapus DRM dan dapetin EPUB bersih yang bisa ditransfer ke X4. Lebih lengkapnya dibawah
 
-Kemendikbud nyediain **2.000+ buku pelajaran gratis** dalam format PDF di [bse.belajar.kemdikbud.go.id](https://bse.belajar.kemdikbud.go.id/) dan [buku.kemdikbud.go.id](https://buku.kemdikbud.go.id/). Lengkap dari SD sampai SMA/SMK. Hak cipta udah dibeli pemerintah — **legal buat disalin dan didistribusikan**. Download PDF-nya terus convert ke XTC lewat XTC.js buat pengalaman baca optimal di X4.
+### Kobo
 
-### iPusnas — perpustakaan digital nasional (terbatas)
+**Kobo adalah alternatif terbaik untuk ebook berbahasa Inggris** dengan koleksi lebih dari 6 juta judul. Harga kompetitif dan sering ada sale besar-besaran. Kobo juga punya program membership Kobo Plus untuk akses unlimited ke katalog tertentu, tapi hanya bisa baca dari app kobo nya.
 
-iPusnas ([ipusnas.id](https://ipusnas.id/)) punya **73.000+ judul** termasuk karya Tere Liye, Dee Lestari, dan Andrea Hirata. Sayangnya, **buku terkunci di dalam aplikasi iPusnas** — nggak bisa diekspor jadi file EPUB/PDF buat ditransfer ke e-reader lain. Jadi iPusnas lebih cocok sebagai pelengkap buat baca di HP/tablet.
+- Beli buku di https://www.kobo.com/
+- Pilih menu My Account → My Books
+- Pada buku yang diinginkan, klik menu tiga titik → Download
+- Buku DRM-free langsung ke-download sebagai EPUB
+- Jika buku menggunakan DRM, ikuti langkah konversi dibawah
 
-### Gramedia Digital — juga terbatas
+### Ebooks.com
 
-Gramedia Digital ([ebooks.gramedia.com](https://ebooks.gramedia.com/)) dengan 100.000+ judul juga **ngunci buku di dalam aplikasinya** pakai DRM. Nggak ada cara resmi buat ekspor file ke e-reader pihak ketiga.
+**Ebooks.com fokus pada ebook DRM-free** — banyak buku yang bisa langsung didownload sebagai EPUB tanpa proteksi, sehingga langsung bisa ditransfer ke X4 tanpa perlu remove DRM. Koleksi mencakup fiksi, non-fiksi, akademik, dan buku teknis.
 
-### Sumber ebook gratis lainnya
+Beli buku di https://www.ebooks.com/, pilih format EPUB saat checkout. Untuk buku DRM-free, langsung download dan transfer ke X4. Untuk buku dengan Adobe DRM, prosesnya sama: Adobe Digital Editions → Calibre DeDRM → transfer EPUB.
 
-**Indonesia OneSearch** ([onesearch.id](https://onesearch.id/)) — portal pencarian terpadu buat 9,8 juta+ koleksi digital dari 2.344 institusi perpustakaan Indonesia. **Perpus.org** ([perpus.org](https://www.perpus.org/)) nyediain buku Bahasa Indonesia gratis berbagai kategori. **Project Gutenberg** ([gutenberg.org](https://www.gutenberg.org/)) konten Bahasa Indonesia-nya minim, lebih banyak teks kolonial dalam Belanda/Inggris. **Open Library** ([openlibrary.org](https://openlibrary.org/)) ada beberapa buku Indonesia buat dipinjam digital.
+## 9. Cara Menghilangkan DRM dari file ebook
 
-### Workflow konversi dengan Calibre
+Seperti disampaikan diatas, jika membeli e-book dari Google Play Book maupun Kobo, seringkali kita hanya mendapatkan file dalam format `.ascm`, yang merupakan file e-book yang dilindungi DRM.
 
-Calibre ([calibre-ebook.com](https://calibre-ebook.com/)) adalah software wajib buat pemilik X4. Install Calibre, terus tambahin plugin **DeDRM** dari [github.com/apprenticeharper/DeDRM_tools](https://github.com/apprenticeharper/DeDRM_tools) buat nangani buku ber-DRM. Buat konversi: tambahin buku → klik Convert → pilih output EPUB → di Page Setup pilih profile **"Generic e-ink HD"** → klik OK. Buat PDF, konversi ke EPUB jalan bagus buat PDF berbasis teks; buat PDF scan/gambar, pakai XTC.js yang lebih efektif.
+Untuk mengkonversi file tersebut menjadi e-book yang bisa dibaca di X4 (maupun reader lain), kalian bisa ikuti langkah berikut
 
----
+### Mengkonversi ASCM menjadi EPUB menggunakan Adobe Digital Editions
+- Download dan Install **Adobe Digital Editions** (ADE) dari [https://www.adobe.com/solutions/ebook/digital-editions/download.html](https://www.adobe.com/solutions/ebook/digital-editions/download.html)
+- Buat akun Adobe ID kalau belum punya, lalu login di ADE lewat menu **Help → Authorize Computer**
+    - Pastikan kamu **authorize pakai Email yang sama** yang kamu pakai di toko tempat beli ebooknya (Google Play Books / Kobo)
+- Buka file `.acsm` yang sudah kamu download — bisa double-click langsung atau lewat menu **File → Add to Library**
+- ADE akan otomatis download dan convert file `.acsm` menjadi file EPUB
+- File EPUB hasil konversi bisa kamu temukan di folder **My Digital Editions** (biasanya di `Documents/My Digital Editions/`)
+- File EPUB ini masih dilindungi Adobe DRM, jadi belum bisa langsung dibaca di X4 — lanjut ke langkah berikutnya untuk menghilangkan DRM
 
-## 9. Spesifikasi teknis dan referensi lengkap
-
-### Spesifikasi XTEInk X4
-
-| Spesifikasi | Detail |
-|-------------|--------|
-| **Layar** | 4.3" (4.26") E-Ink, hitam-putih, tanpa lampu latar |
-| **Resolusi** | 800 × 480 piksel, **220 PPI** |
-| **Touchscreen** | Tidak ada |
-| **Prosesor** | Espressif ESP32-C3, single-core RISC-V, 160 MHz |
-| **RAM** | ~400 KB SRAM (~380 KB usable) |
-| **Penyimpanan internal** | Tidak ada — semua data di microSD |
-| **Slot microSD** | Mendukung hingga **512 GB** (format exFAT) |
-| **Baterai** | **650 mAh**, hingga 14 hari pemakaian |
-| **Konektivitas** | WiFi 2.4 GHz, Bluetooth |
-| **USB** | Type-C (charging + firmware flash, BUKAN data transfer) |
-| **Dimensi** | 114 × 69 × 5.9 mm |
-| **Berat** | **74 gram** |
-| **Warna** | Space Black, Frost White |
-| **Magnet** | MagSafe-compatible magnetic ring built-in |
-| **Harga** | ~$58 USD (~Rp950.000) |
-
-### Versi firmware
-
-| Firmware | Versi Terbaru | Tanggal |
-|----------|---------------|---------|
-| **Stock (resmi)** | XT V3.0.2 | November 2025 |
-| **CrossPoint** | v1.1.1 | Februari 2026 |
-| **Papyrix** | v1.18.0 | Maret 2026 |
-
-### Link penting
-
-| Sumber | URL |
-|--------|-----|
-| Situs resmi Xteink | [xteink.com](https://www.xteink.com/) |
-| Halaman produk X4 | [xteink.com/products/xteink-x4](https://www.xteink.com/products/xteink-x4) |
-| Update firmware resmi | [xteink.com/pages/xteink-x4-system-update](https://www.xteink.com/pages/xteink-x4-system-update) |
-| Aksesoris resmi | [xteink.com/collections/accessories](https://www.xteink.com/collections/accessories) |
-| CrossPoint GitHub | [github.com/crosspoint-reader/crosspoint-reader](https://github.com/crosspoint-reader/crosspoint-reader) |
-| CrossPoint User Guide | [github.com/crosspoint-reader/crosspoint-reader/blob/master/USER_GUIDE.md](https://github.com/crosspoint-reader/crosspoint-reader/blob/master/USER_GUIDE.md) |
-| Web flasher (CrossPoint) | [xteink.dve.al](https://xteink.dve.al/) |
-| CrossPoint Calibre Plugin | [github.com/crosspoint-reader/calibre-plugins/releases](https://github.com/crosspoint-reader/calibre-plugins/releases) |
-| CrossPet GitHub | [github.com/trilwu/crosspet](https://github.com/trilwu/crosspet) |
-| Papyrix GitHub | [github.com/bigbag/papyrix-reader](https://github.com/bigbag/papyrix-reader) |
-| Send to X4 (Android) | [play.google.com/store/apps/details?id=com.chapiware.sendtox4](https://play.google.com/store/apps/details?id=com.chapiware.sendtox4) |
-| Send to X4 (iOS) | [apps.apple.com/us/app/send-to-x4/id6758729873](https://apps.apple.com/us/app/send-to-x4/id6758729873) |
-| XTC.js (konverter komik) | [xtcjs.app](https://xtcjs.app) |
-| EPUB2XTC resmi | [epub2xtc.com](https://epub2xtc.com) |
-| Calibre | [calibre-ebook.com](https://calibre-ebook.com/) |
-| Wallpaper komunitas | [basvanderploeg.nl/xteink](https://basvanderploeg.nl/xteink/) |
-| Community hub | [readme.club](https://www.readme.club/) |
-| Panduan komunitas | [readme.club/guide](https://www.readme.club/guide) |
-| Reddit (resmi) | [reddit.com/r/xteinkereader](https://www.reddit.com/r/xteinkereader/) |
-| Reddit (komunitas) | [reddit.com/r/xteink](https://www.reddit.com/r/xteink/) |
-| Guide lengkap (Joshua Lowcock) | [joshualowcock.com/xteink/the-best-guide-tools-hacks-and-more-for-xteink-x4-owners](https://www.joshualowcock.com/xteink/the-best-guide-tools-hacks-and-more-for-xteink-x4-owners/) |
-| FAQ tidak resmi | [joshualowcock.com/xteink/the-ultimate-xteink-x4-faq-unofficial](https://www.joshualowcock.com/xteink/the-ultimate-xteink-x4-faq-unofficial/) |
-| Troubleshooting guide | [joshualowcock.com/xteink/xteink-x4-troubleshooting-a-guide-for-x4-owners](https://www.joshualowcock.com/xteink/xteink-x4-troubleshooting-a-guide-for-x4-owners/) |
-
----
-
-## Kesimpulan
-
-XTEInk X4 itu perangkat baca yang penuh potensi meskipun harganya terjangkau — kuncinya ada di **tiga langkah esensial** yang wajib dilakuin setiap pemilik baru: ganti microSD card bawaan sama kartu bermerek, install CrossPoint firmware buat pengalaman baca yang jauh lebih bagus, dan pakai Calibre sebagai pusat pengelolaan ebook. Buat pembaca Indonesia, Google Play Books jadi sumber utama ebook komersial yang bisa ditransfer ke X4, sementara BSE nyediain ribuan buku pelajaran gratis dan legal. Perangkat 74 gram ini emang kecil, tapi dengan konfigurasi yang tepat, dia bisa jadi perpustakaan saku yang nampung ribuan buku di ujung jari kamu. Selamat membaca!
+### Menghilangkan DRM dari EPUB yang dihasilkan
+- Download dan Install Calibre
+- Install plugin **DeDRM** 
+    - Download zip dari link berikut (bukan yang source code ya): [https://github.com/noDRM/DeDRM_tools/releases/latest](https://github.com/noDRM/DeDRM_tools/releases/latest)
+    - Ekstrak zip yang kamu download tadi, di dalamnya akan ada file `DeDRM_plugin.zip`
+    - Buka preferences → Plugins → Load Plugin from file
+    - Pilih file `DeDRM_plugin.zip` yang tadi kamu ekstrak
+- Mulai konversi
+    - tambahin file epub yang kalian dapatkan dari hasil konversi ascm. Bisa langsung drag aja file nya ke calibre
+    - klik Convert → pilih output EPUB → di Page Setup pilih profile **"Generic e-ink HD"** → klik OK
+    - Dari calibre, kamu bisa klik kanan bukunya, terus pilih Save to disk atau Send to device
