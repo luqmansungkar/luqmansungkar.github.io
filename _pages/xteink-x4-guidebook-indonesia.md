@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Panduan XTEInk X4
-permalink: /xteink-x4/
-nav_order: 2
+permalink: /
+nav_order: 1
 ---
 <script async src="https://www.threads.net/embed.js"></script> 
 
